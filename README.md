@@ -1,3 +1,20 @@
+# Next.js Cars Showcase
+
+![localhost_3000__fuel=gas year=2023 model=range+rover manufacturer=land+rover](https://github.com/moha-osama/car_showcase/assets/68459758/84962b67-9e39-4c48-b51b-e9666bc6411e)
+
+
+# About
+The Next.js Cars Showcase is a frontend application that displays a collection of cars and their details. This application is built using Next.js, a popular React framework that allows for server-side rendering and static site generation.
+
+ <h1>Technologies used:</h1>
+      Next JS<br/>
+      HeadlessUI <br/>
+      Tailwind CSS<br/>
+      React Icons<br/>
+      
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
